@@ -1,0 +1,3 @@
+Q: When would you want to use a remote repository rather than keeping all your work local?
+
+  If I'm not the only one person working on the project and someone else needs to reach all the commits.
